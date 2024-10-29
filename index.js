@@ -1,5 +1,6 @@
 console.log("Hello there")
+console.log("Some other change")
 console.log("Howdy")
 console.log("However")
-var y=56
-console.log(y+25)
+var t=34
+console.log(t+15)
