@@ -4,4 +4,4 @@ console.log("Howdy")
 console.log("However")
 var t=34
 console.log(t+15)
-console.log("Well come here");
+console.log("Divergence is a tricky thing")
